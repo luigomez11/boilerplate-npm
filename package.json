@@ -1,4 +1,5 @@
 {
 	"author": "Luis Gomez",
-	"description": "My freeCodeCamp project"
+	"description": "My freeCodeCamp project",
+	"keywords": ["one", "freeCodeCamp", "three"]
 }
